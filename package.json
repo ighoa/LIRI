@@ -1,0 +1,23 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "dependencies": {"request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ighoa/LIRI.git"
+  },
+  "author": "igho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ighoa/LIRI/issues"
+  },
+  "homepage": "https://github.com/ighoa/LIRI#readme"
+}
